@@ -1,0 +1,9 @@
+carrera: DM
+materia: Desarrollo de Aplicaciones Multiplataforma  
+año:2017
+cuatrimestre:5to
+comisión:A
+turno:M
+apellidos y nombres: Sosa Sabrina, Villalba Gabriel
+docente: Toyos Omar
+carácter de entrega: Final
